@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maw1847, I'm currently undergraduate in computer science. I'm a self-taught and loves to learn new things especially about new technologies. Great passionate about basketball, football and music.
+- 👋 Hi, I’m @Maw1847, I'm currently undergraduate in computer science. I'm a self-taught and I love to learn new things especially about new technologies. Great passionate about basketball, football and music.
 - 👀 I’m interested in Python for algorithms and data structures, machine learning applications and data science; Flutter for mobile crossplatform apps and any interesting feature of technology with real impact and concrete goal
 - 🌱 I’m currently learning Optimization for Machine learning, opencv with Python and Flutter.
 - 💞️ I’m looking to collaborate on projects linked to features mentioned on top
